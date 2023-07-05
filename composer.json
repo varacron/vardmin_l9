@@ -1,7 +1,7 @@
 {
-    "name": "laravel/laravel",
+    "name": "varacron/vardmin_l9",
     "type": "project",
-    "description": "The Laravel Framework.",
+    "description": "Vardmin fused Laravel 9 Project",
     "keywords": ["framework", "laravel"],
     "license": "MIT",
     "require": {
